@@ -1,2 +1,2 @@
 # Staff-Perfomance-PowerBI
-staff performance report
+Staff Performance Report
